@@ -8,18 +8,3 @@ Political – coup:negative, protest:positive, election:positive, freedom:positive
 Financial -  stock:positive, crash:negative, value:positive, loan:negative, risk:negative
 Hunger – malnutrition:negative, contamination:negative, nutrient:positive, variety:positive, insecurity:negative
 Environmental – degradation:negative, industrialisation:negative, sustainable:positive, stability:positive, biodiversity:positive, environmentalism:positive, disruption:negative, extreme:negative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
