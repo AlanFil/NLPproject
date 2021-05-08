@@ -1,0 +1,25 @@
+Humanitarian – hurricane:negative, tsunami:negative, fire:negative, destruction:negative, support:positive
+Housing – landlord:negative, rent:negative, eviction:negative, affordable:positive, homelessness:negative
+Refugee – rights:positive, outlaw:negative , foreigner:negative, renegade:negative, castaway:negative, exile:negative
+Climate – warming:negative, mitigate:positive, renawable:positive, change:positive, emissions:negative
+Health – disease:negative, obesity:negative, exercise:positive, nutrition:positive, stress:negative
+Mental – depression:negative, lifeline:positive, suicide:negative, prevention:positive, struggle:negative, anxiety:negative
+Political – coup:negative, protest:positive, election:positive, freedom:positive, polarisation:negative
+Financial -  stock:positive, crash:negative, value:positive, loan:negative, risk:negative
+Hunger – malnutrition:negative, contamination:negative, nutrient:positive, variety:positive, insecurity:negative
+Environmental – degradation:negative, industrialisation:negative, sustainable:positive, stability:positive, biodiversity:positive, environmentalism:positive, disruption:negative, extreme:negative
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
